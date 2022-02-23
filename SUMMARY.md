@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Kotlin](README.md)
-* [Базовые литералы](bazovye-literaly.md)
-* [Обзор базовой программы](obzor-bazovoi-programmy.md)
-* [Введение в Kotlin](vvedenie-v-kotlin.md)
+
+## Основы <a href="#basics" id="basics"></a>
+
+* [Введение в Kotlin](basics/vvedenie-v-kotlin.md)
+* [Базовые литералы](basics/bazovye-literaly.md)
+* [Обзор базовой программы](basics/obzor-bazovoi-programmy.md)
