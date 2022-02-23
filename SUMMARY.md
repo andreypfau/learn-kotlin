@@ -10,3 +10,7 @@
 * [Комментарии](basics/comments.md)
 * [Стандартный вывод](basics/standart-output.md)
 * [Стили написания кода](basics/coding-style-conventions.md)
+
+## Контроль потока <a href="#control-flow" id="control-flow"></a>
+
+* [Вызов функций](control-flow/invoking-functions.md)
