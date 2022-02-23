@@ -1,6 +1,4 @@
-# Kotlin
-
-## Основы
+Основы
 
 * [Введение в Kotlin](basics/introduction-to-kotlin.md)
 * [Базовые литералы](basics/basic-literals.md)
@@ -9,6 +7,6 @@
 * [Стандартный вывод](basics/standart-output.md)
 * [Стили написания кода](basics/coding-style-conventions.md)
 
-## Контроль потока
+Контроль потока
 
 * [Вызов функций](control-flow/invoking-functions.md)
