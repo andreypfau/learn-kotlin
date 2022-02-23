@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <title>Kotlin</title>
@@ -10,32 +10,18 @@
     <link href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css" rel="stylesheet">
     <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <style>
-        .app-name-link {
-            display: flex;
-            flex-direction: row;
-            align-items: center;
-            justify-content: flex-start;
-        }
-
         .app-name-link img {
             width: 36px;
             margin-left: 10px;
             margin-right: 10px;
         }
-
-        .app-name-link:after {
-            content: 'Kotlin';
-            font-weight: bold;
-            font-size: 1.3rem;
-        }
     </style>
 </head>
 <body>
 <div id="app"></div>
-<!-- Docsify v4 -->
 <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 <script>
-    var num = 0;
+    let num = 0;
     mermaid.initialize({startOnLoad: true});
 
     window.$docsify = {
