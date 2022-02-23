@@ -11,6 +11,6 @@
 * [Стандартный вывод](basics/standart-output.md)
 * [Стили написания кода](basics/coding-style-conventions.md)
 
-## Control Flow
+## Контроль потока
 
 * [Вызов функций](control-flow/invoking-functions.md)
