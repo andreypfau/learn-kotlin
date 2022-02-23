@@ -11,6 +11,6 @@
 * [Стандартный вывод](basics/standart-output.md)
 * [Стили написания кода](basics/coding-style-conventions.md)
 
-## Контроль потока <a href="#control-flow" id="control-flow"></a>
+## Group 1
 
-* [Вызов функций](control-flow/invoking-functions.md)
+* [Page 1](group-1/page-1.md)
