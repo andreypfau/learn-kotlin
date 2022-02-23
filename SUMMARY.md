@@ -8,3 +8,4 @@
 * [Базовые литералы](basics/basic-literals.md)
 * [Обзор базовой программы](basics/overview-of-the-basic-program.md)
 * [Комментарии](basics/comments.md)
+* [Стили написания кода](basics/coding-style-conventions.md)
