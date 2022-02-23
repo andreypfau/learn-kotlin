@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Введение в Kotlin](README.md)
+* [Kotlin](README.md)
+* [Введение в Kotlin](<README (1).md>)
 * [Базовые литералы](bazovye-literaly.md)
 * [Обзор базовой программы](obzor-bazovoi-programmy.md)
