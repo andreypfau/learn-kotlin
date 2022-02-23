@@ -4,6 +4,6 @@
 
 ## Основы <a href="#basics" id="basics"></a>
 
-* [Введение в Kotlin](basics/vvedenie-v-kotlin.md)
-* [Базовые литералы](basics/bazovye-literaly.md)
-* [Обзор базовой программы](basics/obzor-bazovoi-programmy.md)
+* [Введение в Kotlin](basics/introduction-to-kotlin.md)
+* [Базовые литералы](basics/basic-literals.md)
+* [Обзор базовой программы](basics/overwiew-of-the-basic-program.md)
