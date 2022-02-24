@@ -11,3 +11,4 @@
 
 * [Вызов функций](control-flow/invoking-functions.md)
 * [Объявление функций](control-flow/declaring-functions.md)
+* [Функциональная декомпозиция](control-flow/functional-decomposition.md)
