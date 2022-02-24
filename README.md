@@ -15,3 +15,4 @@
 * [Функциональная декомпозиция](control-flow/functions/functional-decomposition.md)
 * [Аргументы по умолчанию](control-flow/functions/default-arguments.md)
 * [Именованные аргументы](control-flow/functions/named-arguments.md)
+* [Стек вызовов](control-flow/functions/call-stack.md)
