@@ -7,8 +7,9 @@
 * [Стандартный вывод](basics/standart-output.md)
 * [Стили написания кода](basics/coding-style-conventions.md)
 
-Контроль потока
+Функции
 
-* [Вызов функций](control-flow/invoking-functions.md)
-* [Объявление функций](control-flow/declaring-functions.md)
-* [Функциональная декомпозиция](control-flow/functional-decomposition.md)
+* [Вызов функций](control-flow/functions/invoking-functions.md)
+* [Объявление функций](control-flow/functions/declaring-functions.md)
+* [Функция main()](control-flow/functions/the-main-function.md)
+* [Функциональная декомпозиция](control-flow/functions/functional-decomposition.md)

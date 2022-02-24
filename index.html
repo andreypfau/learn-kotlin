@@ -10,28 +10,25 @@
     <link href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css" rel="stylesheet">
     <link href="//unpkg.com/prism-github/prism-github.css" rel="stylesheet">
     <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-    <style>
-        .app-name-link img {
-            width: 36px;
-            margin-left: 10px;
-            margin-right: 10px;
-        }
-    </style>
 </head>
 <body>
-<div id="app"></div>
+<div id="app">Загрузка...</div>
 <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-kotlin.min.js"></script>
 <script>
     let num = 0;
     mermaid.initialize({startOnLoad: false});
-
     window.$docsify = {
         name: 'Kotlin',
         auto2top: true,
         repo: 'https://github.com/andreypfau/learn-kotlin',
         loadSidebar: 'README.md',
-        subMaxLevel: 2,
+        subMaxLevel: 4,
+        topMargin: 90,
+        pagination: {
+            crossChapter: true,
+            crossChapterText: true,
+        },
         markdown: {
             renderer: {
                 code: function (code, lang) {
@@ -43,7 +40,7 @@
                     return this.origin.code.apply(this, arguments);
                 }
             }
-        }
+        },
     }
 </script>
 <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
