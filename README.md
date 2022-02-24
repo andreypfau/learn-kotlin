@@ -13,3 +13,4 @@
 * [Объявление функций](control-flow/functions/declaring-functions.md)
 * [Функция main()](control-flow/functions/the-main-function.md)
 * [Функциональная декомпозиция](control-flow/functions/functional-decomposition.md)
+* [Аргументы по умолчанию](control-flow/functions/default-arguments.md)
