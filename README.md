@@ -16,3 +16,9 @@
 * [Аргументы по умолчанию](control-flow/functions/default-arguments.md)
 * [Именованные аргументы](control-flow/functions/named-arguments.md)
 * [Стек вызовов](control-flow/functions/call-stack.md)
+
+Структуры контроля команд
+
+* [Условные выражения](control-flow/control-structures/if-expression.md)
+* [Циклы](control-flow/control-structures/repeating-blocks.md)
+* [Условные циклы](control-flow/control-structures/while-loops.md)
