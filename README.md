@@ -7,6 +7,9 @@
 * [Стандартный вывод](basics/standart-output.md)
 * [Стили написания кода](basics/coding-style-conventions.md)
 
+Типы и структуры данных
+* [Введение в MutableList](types-and-data-structures/lists/intruduction-to-mutable-list.md)
+
 Функции
 
 * [Вызов функций](control-flow/functions/invoking-functions.md)
